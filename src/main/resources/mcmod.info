@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "tasercraft",
+    "name": "Tasercraft",
+    "description": "Interfaces with a Arduino controlled taser to tase the player for taking damage.\nBecome a better Minecraft player -- OR ELSE!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Jacob Buelow"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

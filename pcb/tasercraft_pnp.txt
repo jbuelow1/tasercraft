@@ -1,0 +1,40 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=tasercraft
+*Date=14:16:06
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;5 mm [THT];13.1777;-51.9699;-90;Bottom;LED2
+2;;SIP (Single Inline) [THT];59.5489;-36.7299;0;Bottom;VREG POT
+3;;;21.0312;-20.8384;0;Bottom;Via3
+4;;5 mm [THT];20.7977;-51.9699;-90;Bottom;LED1
+5;;DIP (Dual Inline) [THT];50.6589;-45.6199;0;Bottom;MCP4131
+6;10µF;100 mil [THT, multilayer];43.0436;-8.78995;-180;Bottom;C1
+7;;THT;3.75964;-9.465;-180;Bottom;J2
+8;;5 mm [THT];5.55766;-51.9699;-90;Bottom;LED3
+9;;relay-g5q;50.6589;-27.8399;90;Bottom;RELAY
+10;220;THT;8.74889;-39.2699;-90;Bottom;R1
+11;;;23.4696;-47.6608;0;Bottom;Via7
+12;;THT;3.66889;-24.0299;0;Bottom;S1
+13;;THT;37.2077;-26.5736;90;Bottom;5V REG
+14;;;28.956;-53.1472;0;Bottom;Via4
+15;;;69.7851;-28.8682;-90;Bottom;XL6009
+16;;;37.3194;-44.3533;0;Bottom;buz1
+17;;;20.1137;-24.0215;0;Bottom;Arduino Nano
+18;220;THT;6.20889;-39.2699;-90;Bottom;R2
+19;220;THT;3.66889;-39.2699;-90;Bottom;R3
+20;;transformer;43.9789;1.64005;90;Bottom;COIL
+21;;;24.0792;-34.2496;0;Bottom;Via6
+22;;;24.6888;-24.496;0;Bottom;Via2
+23;;;50.292;-48.2704;0;Bottom;Via5
+24;220;THT;31.6089;-54.5099;180;Bottom;R4
+25;;;2.1336;-31.8112;0;Bottom;Via1
